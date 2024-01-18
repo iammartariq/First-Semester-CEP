@@ -1,1 +1,7 @@
+create a file main.txt in the same folder having code.py file.
+main.txt file is used to store the data of accounts created.
 
+create a file history.txt in the same folder having code.py file.
+main.txt file is used to store the data of accounts created.
+
+it is recommended to run the code/program in vs-code.
