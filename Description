@@ -1,0 +1,11 @@
+I am excited to share that i have successfully created and submitted my first semester CEP (Complex Engineering Project) linked with NED University of Engineering and Technology. 
+
+1) Project Description:
+
+The objective of this project is to design and implement a user-friendly online-shopping cart system that facilitates the purchase of goodsthrough which the user can add/remove items and perform operations what is normally done in an online shopping system.
+
+SIGNUP: The system, on signup, asks the user their basic information along with some contact details and saves it as dictionary in main.txt file. Every single field is designed in such a way that the user cannot leave any field empty. Some fantastic features were also added which includes; the user cannot enter a digit in the name field, the username cannot be repeated, the only acceptable email address is gmail.com, the password security system makes sure that the user’s credentials remain secure and private as the password is hidden at the time of registration. 
+
+LOGIN: During login, the program reads the main.txt file to check if the user is already signed up or not. In case the user is not signed up or enters incorrect information, the programs display an input message to ask if the user wants to login or wants to create an account. If they selects login, the program returns to the login page. But, if the user decides to sign up, the sign-up page pops up.
+
+SHOPPING: The menu is displayed as soon as the user logs-in. On the menu, the products are displayed along with their respective prices and variable quantities which changes according to the quantity of the products the user adds or remove from their cart. Not only this, but the user can also have multiple other options. Before checkout, the user can add and remove products from their cart along with an extra option to clear the entire cart. The user can view the total bill even before checking out. At the time of check-out, the user’s history (including date and time of shopping, products with their selected quantities, and the total price) is saved in the history.txt file. The user is given an additional choice to view their shopping history. 
